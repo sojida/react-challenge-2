@@ -24,6 +24,8 @@ class Application extends React.Component {
                 onChange={this.handleChange}
               />
 
+              <br/><br/>
+
               <label htmlFor="password">password</label>
               <input
                 type="password"
